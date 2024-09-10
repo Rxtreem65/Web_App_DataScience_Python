@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+env/
+.env/
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+
+# Dependency directories
+node_modules/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Auto-generated documentation
+docs/_build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
